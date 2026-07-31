@@ -1,0 +1,6 @@
+{
+  "name": "Daily Planner",
+  "description": "A clean, modern daily planner app to manage tasks, track habits, run focus sessions, and record daily notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
